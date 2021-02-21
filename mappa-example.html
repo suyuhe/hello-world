@@ -26,7 +26,7 @@ function setup(){
   myMap = mappa.tileMap(options);
   myMap.overlay(canvas);
 
-  meteorites = loadTable('Meteorite_Landings.csv', 'csv', 'header');
+  meteorites = loadTable('libraries/Meteorite_Landings.csv', 'csv', 'header');
 
   myMap.onChange(drawMeteorites);
 
