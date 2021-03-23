@@ -10,3 +10,9 @@ Given that this map is a translation of my personal knowledge, sense of place, a
 
 The interactive elements enabled me to involve the viewer in the tour and create a personal connection, much like I would do in person. The viewer is taken through a series of pop ups that describe each location. The map subtly centers on each marker as the viewer 'walks.' The path acts to mimic myself and the viewer walking through the neighbourhood to each site. 
 Ultimately, the map shows how place and community are created through multiple competing stories, identities and histories. It was an experimentative process to center my voice, relationship and storytelling of Chinatown through cartography. I felt as if I threw out a lot of what I've been taught to be design rules for cartography, particularly in map styling.
+
+I referenced the below tutorials and maps:
+- https://docs.mapbox.com/mapbox-gl-js/example/toggle-layers/
+- https://rithikha.github.io/ToulouseTransportation/index
+- https://docs.mapbox.com/mapbox-gl-js/example/popup-on-click/
+- https://docs.mapbox.com/mapbox-gl-js/example/center-on-symbol/
