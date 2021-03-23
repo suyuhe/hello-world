@@ -1,6 +1,6 @@
 
 [Link to Chinatown Tour Map](https://suyuhe.github.io/suyuhe-web/lab-two.html)
-(![Screen Shot 2021-03-22 at 11 28 53 PM](https://user-images.githubusercontent.com/68033607/112103222-ae2c5c80-8b66-11eb-8b10-dd83c4c5717d.png)"Lab Example Image")
+(![Lab Example Image](https://user-images.githubusercontent.com/68033607/112103222-ae2c5c80-8b66-11eb-8b10-dd83c4c5717d.png))
 
 In many ways, this map is a love letter to Chinatown. I centre much of my place-based identity in Chinatowns given my family's immigration history of settling in Chinatown, Calgary. Its a place where I still do a lot of errands and I often take friends on a personal tour of the area while checking out local shops. This map is designed to translate this tour and my knowledge of Chinatown. 
 
